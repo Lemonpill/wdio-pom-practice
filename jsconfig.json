@@ -1,0 +1,10 @@
+// this allows autocomplete for wdio
+{
+    "compilerOptions": {
+        "types": [
+            "node",
+            "@wdio/globals/types",
+            "@wdio/mocha-framework"
+        ]
+    }
+}
