@@ -1,5 +1,5 @@
-import LoginPage from '../pageobjects/example/login.page.js'
-import SecurePage from '../pageobjects/example/secure.page.js'
+import LoginPage from '../../pageobjects/example/login.page.js'
+import SecurePage from '../../pageobjects/example/secure.page.js'
 
 describe.skip('My Login application', () => {
     it('should login with valid credentials', async () => {
